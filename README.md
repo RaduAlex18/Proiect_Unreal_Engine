@@ -12,7 +12,7 @@
   "Parking Master: City Challenge" este un joc de simulare și abilități de conducere în care jucătorul trebuie să își demonstreze talentul de a parca mașini în diverse locuri dificile dintr-un oraș aglomerat. Jocul pune accent pe precizie, timp și controlul vehiculului în diferite condiții de trafic și vreme. Jucătorul poate conduce diferite tipuri de mașini, fiecare cu un stil de condus specific, în mai multe scenarii urbane, cum ar fi parcările subterane, străzi înguste sau locuri de parcare pe marginea drumului.
 
 ### ii. Categorie:
-  Acest joc se încadrează în categoria **simulare** și **abilități de conducere**, având elemente de **puzzle** deoarece jucătorul trebuie să găsească cel mai eficient mod de a parca în condiții limitate de spațiu și timp.
+&#9; Acest joc se încadrează în categoria **simulare** și **abilități de conducere**, având elemente de **puzzle** deoarece jucătorul trebuie să găsească cel mai eficient mod de a parca în condiții limitate de spațiu și timp.
 
 ### iii. Regulile de joc:
 Jucătorul trebuie:
