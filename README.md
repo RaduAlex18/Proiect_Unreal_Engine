@@ -2,44 +2,44 @@
 
 # 1. Tema
 
-## Titlu: **"Parking Master: City Challenge"**
+  ## Titlu: **"Parking Master: City Challenge"**
 
 # 2. Descrierea succintă a temei
 
 ## a. Descriere generală a jocului
 
 ### i. Contextul:
-"Parking Master: City Challenge" este un joc de simulare și abilități de conducere în care jucătorul trebuie să își demonstreze talentul de a parca mașini în diverse locuri dificile dintr-un oraș aglomerat. Jocul pune accent pe precizie, timp și controlul vehiculului în diferite condiții de trafic și vreme. Jucătorul poate conduce diferite tipuri de mașini, fiecare cu un stil de condus specific, în mai multe scenarii urbane, cum ar fi parcările subterane, străzi înguste sau locuri de parcare pe marginea drumului.
+  "Parking Master: City Challenge" este un joc de simulare și abilități de conducere în care jucătorul trebuie să își demonstreze talentul de a parca mașini în diverse locuri dificile dintr-un oraș aglomerat. Jocul pune accent pe precizie, timp și controlul vehiculului în diferite condiții de trafic și vreme. Jucătorul poate conduce diferite tipuri de mașini, fiecare cu un stil de condus specific, în mai multe scenarii urbane, cum ar fi parcările subterane, străzi înguste sau locuri de parcare pe marginea drumului.
 
 ### ii. Categorie:
-Acest joc se încadrează în categoria **simulare** și **abilități de conducere**, având elemente de **puzzle** deoarece jucătorul trebuie să găsească cel mai eficient mod de a parca în condiții limitate de spațiu și timp.
+  Acest joc se încadrează în categoria **simulare** și **abilități de conducere**, având elemente de **puzzle** deoarece jucătorul trebuie să găsească cel mai eficient mod de a parca în condiții limitate de spațiu și timp.
 
 ### iii. Regulile de joc:
 Jucătorul trebuie:
-- Să manevreze mașina folosind comenzile disponibile (accelerare, frânare, direcție).
-- Să parcheze mașina într-un loc specific fără a lovi obstacolele sau alte mașini.
-- Să respecte limitele de timp impuse pentru fiecare nivel.
+  - Să manevreze mașina folosind comenzile disponibile (accelerare, frânare, direcție).
+  - Să parcheze mașina într-un loc specific fără a lovi obstacolele sau alte mașini.
+  - Să respecte limitele de timp impuse pentru fiecare nivel.
   
 Jocul se termină dacă:
-- Mașina este lovită de prea multe ori sau are daune majore.
-- Timpul alocat pentru a parca expira.
+  - Mașina este lovită de prea multe ori sau are daune majore.
+  - Timpul alocat pentru a parca expira.
   
 Jucătorul câștigă puncte pe baza:
-- Timpului rămas până la finalizarea parcării.
-- Preciziei parcării (lipsa coliziunilor și poziționarea corectă).
-- Dificultății parcării (spații mai înguste sau scenarii mai complexe aduc puncte suplimentare).
+  - Timpului rămas până la finalizarea parcării.
+  - Preciziei parcării (lipsa coliziunilor și poziționarea corectă).
+  - Dificultății parcării (spații mai înguste sau scenarii mai complexe aduc puncte suplimentare).
 
 ## b. Interacțiunea cu utilizatorul:
-La începutul jocului, jucătorul vede un meniu principal cu opțiuni de joc, cum ar fi alegerea nivelului, alegerea mașinii și vizualizarea scorurilor. Prima interfață afișează o hartă a parcării și o vedere din spate a mașinii, alături de comenzi pe ecran pentru accelerare, frânare și direcție (stânga/dreapta).
+  La începutul jocului, jucătorul vede un meniu principal cu opțiuni de joc, cum ar fi alegerea nivelului, alegerea mașinii și vizualizarea scorurilor. Prima interfață afișează o hartă a parcării și o vedere din spate a mașinii, alături de comenzi pe ecran pentru accelerare, frânare și direcție (stânga/dreapta).
 
 Acțiuni principale:
-1. Conducerea mașinii pentru a ajunge la locul de parcare.
-2. Manevrarea cu atenție pentru a parca în spațiul indicat.
-3. Evitarea coliziunilor cu alte mașini, obstacole sau pereți.
-4. Finalizarea parcării în timp util pentru a primi bonusuri.
+  1. Conducerea mașinii pentru a ajunge la locul de parcare.
+  2. Manevrarea cu atenție pentru a parca în spațiul indicat.
+  3. Evitarea coliziunilor cu alte mașini, obstacole sau pereți.
+  4. Finalizarea parcării în timp util pentru a primi bonusuri.
 
 ## c. Categoria de utilizatori:
-Jocul este dedicat jucătorilor cu vârsta între 12 și 35 de ani, care sunt pasionați de jocuri de simulare, condus și abilități de parcare. Publicul țintă include persoane care doresc să își testeze dexteritatea și coordonarea mână-ochi, având o preferință pentru jocurile care oferă provocări rapide și satisfacție imediată.
+  Jocul este dedicat jucătorilor cu vârsta între 12 și 35 de ani, care sunt pasionați de jocuri de simulare, condus și abilități de parcare. Publicul țintă include persoane care doresc să își testeze dexteritatea și coordonarea mână-ochi, având o preferință pentru jocurile care oferă provocări rapide și satisfacție imediată.
 
 ## d. Cuvintele/sintagmele cheie:
 - Simulare parcare
